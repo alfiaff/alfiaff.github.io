@@ -649,7 +649,7 @@ footer   {
         display: none;
     }
     #about-section {
-        height: 100vh;
+        height: fit-content;
     }
    
     #about-section #about-content {
