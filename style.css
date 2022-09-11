@@ -132,7 +132,7 @@ header {
 .jumbo-tron #jumbo-tron-content #jumbo-tron-photo-profile {
     width: 300px;
     height: 300px;
-    background-image: url("../img/itsme.jpg");
+    background-image: url("img/itsme.jpg");
     background-size: cover;
     box-shadow: 5px 5px #000;
     transition: 0.2s ease-in-out;
@@ -450,42 +450,42 @@ header {
     height: 150px;
 }
 #image-of-card-1 {
-    background: url("../img/HTML5_LOGO.png");
+    background: url("img/HTML5_LOGO.png");
     background-size: cover;
     transition: all 0.2s ease-in-out;
     background-repeat: no-repeat;
     background-position: center;
 }
 #image-of-card-2 {
-    background: url("../img/CSS_LOGO.png");
+    background: url("img/CSS_LOGO.png");
     background-size: cover;
     transition: all 0.2s ease-in-out;
     background-repeat: no-repeat;
     background-position: center;
 }
 #image-of-card-3 {
-    background: url("../img/JavaScript Logo.png");
+    background: url("img/JavaScript Logo.png");
     background-size: 150px;
     background-repeat: no-repeat;
     background-position: center;
     transition: all 0.2s ease-in-out;
 }
 #image-of-card-4 {
-    background: url("../img/ADPR_LOGO.png");
+    background: url("img/ADPR_LOGO.png");
     background-size: 150px;
     background-repeat: no-repeat;
     background-position: center;
     transition: all 0.2s ease-in-out;
 }
 #image-of-card-5 {
-    background: url("../img/MSWORD_LOGO.png");
+    background: url("img/MSWORD_LOGO.png");
     background-size: 150px;
     background-repeat: no-repeat;
     background-position: center;
     transition: all 0.2s ease-in-out;
 }
 #image-of-card-6 {
-    background: url("../img/PowerPoint_LOGO.png");
+    background: url("img/PowerPoint_LOGO.png");
     background-size: 150px;
     background-repeat: no-repeat;
     background-position: center;
