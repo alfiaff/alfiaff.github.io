@@ -655,6 +655,7 @@ footer   {
     #about-section #about-content {
         flex-direction: column;
         justify-content: space-around;
+	 height: fit-content;
     }
    
     #education-section #education-content {
